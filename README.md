@@ -1,0 +1,4 @@
+cubesolver
+==========
+
+Rubiks Cube Solver
